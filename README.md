@@ -1,2 +1,2 @@
-# Miner-a-de-datos
+# Data Mining
 Actividades del curso
